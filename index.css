@@ -143,3 +143,116 @@ header {
     color: #151414;
     margin-bottom: 24px;
 }
+
+/* Secone Section of Main Styling */
+
+.my-plans {
+    margin-bottom: 130px;
+}
+
+.my-plans-title {
+    text-align: center;
+    height: 47px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 60px;
+}
+
+.my-plans-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.my-plans1 {
+    text-align: center;
+}
+
+.my-plans1-img {
+    margin-bottom: 24px;
+}
+
+.my-plans1-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.my-plans1-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+.my-plans2 {
+    text-align: center;
+}
+
+.my-plans2-img {
+    margin-bottom: 24px;
+}
+
+.my-plans2-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.my-plans2-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+.my-plans3 {
+    text-align: center;
+}
+
+.my-plans3-img {
+    margin-bottom: 24px;
+}
+
+.my-plans3-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.my-plans3-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+.my-plans4 {
+    text-align: center;
+}
+
+.my-plans4-img {
+    margin-bottom: 24px;
+}
+
+.my-plans4-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.my-plans4-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
